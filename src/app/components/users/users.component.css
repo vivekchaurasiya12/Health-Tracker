@@ -1,0 +1,9 @@
+.custom-paginator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .custom-paginator button {
+    margin: 0 10px;
+  }
