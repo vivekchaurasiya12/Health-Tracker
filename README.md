@@ -1,10 +1,31 @@
-# HealthTracker
+# Health Tracker
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
+Welcome to the **Health Tracker** project! This Angular application helps you track various health metrics like steps, calories burned, water intake, and overall fitness progress. The app provides a clean, intuitive, and user-friendly interface, helping you stay on top of your health goals and habits.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Track Daily Steps**: Monitor your daily steps and see how you're progressing towards your fitness goals.
+- **Calories Burned**: Keep track of calories burned during your workouts.
+- **Water Intake**: Set and track your daily water intake goal.
+- **Progress Tracking**: View progress over time with easy-to-read charts and statistics.
+
+## Getting Started
+
+To get the development environment up and running, follow these steps:
+
+### Prerequisites
+
+Ensure you have the following installed on your local machine:
+
+- [Node.js](https://nodejs.org/) (Recommended version: LTS)
+- [Angular CLI](https://angular.io/cli) (installed globally)
+
+### Development Server
+
+Run the following command to start the development server:
+
+```bash
+ng serve
 
 ## Code scaffolding
 
